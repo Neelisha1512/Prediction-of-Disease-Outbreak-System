@@ -12,7 +12,8 @@ This project is a web application for predicting disease outbreaks using machine
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/prediction-of-disease-outbreaks.git
+git clone (https://github.com/Neelisha1512/Prediction-of-Disease-Outbreak-System)
+
 cd prediction-of-disease-outbreaks
 
 2. Install the required packages:
@@ -26,6 +27,7 @@ Usage
 Open the web browser and go to the URL provided by Streamlit (usually http://localhost:8501).
 Use the sidebar to navigate between different prediction pages.
 Enter the required input values and click the prediction button to get the result.
+
 Deployed Application
 You can access the deployed application at the following link:
 https://predictionofdiseaseoutbreak.streamlit.app/
